@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" width="100%" alt="Liba Mahmood — Computer Science Graduate, Technology Consultant, Data & AI" />
 
 <a href="https://liba4m.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7A1E3D&center=true&vCenter=true&width=700&lines=Turning+chaos+into+clean+code%2C+one+commit+at+a+time.;Computer+Science+Graduate+%7C+Aspiring+Tech+Consultant;Building+with+AI%2C+data%2C+and+full-stack+tools." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7A1E3D&center=true&vCenter=true&width=700&lines=Turning+chaos+into+clean+code%2C+one+commit+at+a+time.;Computer+Science+Graduate+%7C+Tech+Consultant;Building+with+AI%2C+data%2C+and+full-stack+tools." alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7a1e3d?style=for-the-badge&logoColor=white)](https://liba4m.github.io/my-portfolio/)
