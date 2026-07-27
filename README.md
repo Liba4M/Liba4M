@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=7A1E3D&center=true&vCenter=true&width=700&lines=Turning+chaos+into+clean+code%2C+one+commit+at+a+time.;Computer+Science+Graduate+%7C+Aspiring+Tech+Consultant;Building+with+AI%2C+data%2C+and+full-stack+tools." alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7a1e3d?style=for-the-badge&logoColor=white)](https://liba4m.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7a1e3d?style=for-the-badge)](https://www.linkedin.com/in/liba-mahmood)
+[![TutorGenie](https://img.shields.io/badge/🧞_TutorGenie-7a1e3d?style=for-the-badge&logoColor=white)](https://tutorgenie.vercel.app/)
+
 </div>
 
 ```bash
@@ -19,7 +23,7 @@ $ cat mission.txt
 > Turning complex information into clear insight, and ideas into real-world solutions.
 ```
 
-### // 01. Stack
+### // 01. Key Skills
 
 <div align="center">
 
@@ -39,13 +43,35 @@ $ cat mission.txt
 
 ### // 02. Projects
 
-<div align="center">
+#### 🧞 [TutorGenie](https://tutorgenie.vercel.app/)
 
-[![TutorGenie](https://img.shields.io/badge/🧞_TutorGenie-View_Live-7a1e3d?style=for-the-badge&logoColor=white)](https://tutorgenie.vercel.app/)
-[![CO2 Emissions Analysis](https://img.shields.io/badge/CO₂_Emissions_Analysis-View_Source-6e6b74?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liba4M/co2-emissions-visualisation)
-[![Portfolio](https://img.shields.io/badge/Full_Portfolio-liba4m.github.io-1a1719?style=for-the-badge&logo=googlechrome&logoColor=7a1e3d)](https://liba4m.github.io/my-portfolio/)
+![Next.js](https://img.shields.io/badge/Next.js-7a1e3d?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7a1e3d?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-7a1e3d?style=flat-square&logo=supabase&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-7a1e3d?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7a1e3d?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+AI-powered tutor support platform that helps tutors generate personalised lesson plans, targeted feedback, and organise student learning more efficiently.
+
+- **Built:** the full stack end-to-end — database schema, authentication, AI-powered lesson/feedback generation via Azure OpenAI, and a responsive Next.js/Tailwind UI.
+- **Learned:** how to design a real product around an actual workflow problem, prompt-engineer AI output into something genuinely usable, and structure a scalable full-stack app from database to deployment.
+
+**[→ View Live](https://tutorgenie.vercel.app/)**
+
+#### 🌍 [Global CO₂ Emissions Analysis](https://github.com/Liba4M/co2-emissions-visualisation)
+
+![Python](https://img.shields.io/badge/Python-7a1e3d?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7a1e3d?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7a1e3d?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-7a1e3d?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-7a1e3d?style=flat-square&logo=jupyter&logoColor=white)
+
+Exploration of the Our World in Data CO₂ dataset, visualising long-term emission trends, top emitters by total and per-capita output, the GDP–emissions relationship, and breakdowns by fuel type.
+
+- **Built:** data cleaning/wrangling pipelines and a set of visualisations uncovering global emissions disparities and trends over time.
+- **Learned:** exploratory data analysis end-to-end — from messy raw data to a clear, visual narrative — and how to reason about sustainability questions using real datasets.
+
+**[→ View Source](https://github.com/Liba4M/co2-emissions-visualisation)**
 
 ### // 03. GitHub Stats
 
