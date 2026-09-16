@@ -58,6 +58,21 @@ AI-powered tutor support platform that helps tutors generate personalised lesson
 
 **[→ View Live](https://tutorgenie.vercel.app/)**
 
+#### 🎓 [Student Performance Predictor](https://github.com/Liba4M/student-performance-predictor)
+
+![Python](https://img.shields.io/badge/Python-7a1e3d?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-7a1e3d?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-7a1e3d?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-7a1e3d?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-7a1e3d?style=flat-square&logo=jupyter&logoColor=white)
+
+Multi-class classification pipeline predicting a UK university student's likely outcome — Distinction, Pass, Fail, or Withdrawn — using only their first 4 weeks of behavioural data, framed as an early-warning system for at-risk students.
+
+- **Built:** an end-to-end pipeline joining 5 linked tables from a real UK learning-analytics dataset (including a 10M-row clickstream log processed in chunks), comparing Logistic Regression, Random Forest, and XGBoost, with feature importance analysis and a responsible-AI review that deliberately excludes protected characteristics from the model.
+- **Learned:** how to frame a genuine early-warning problem instead of predicting from near-final data, handle real-world missing values and class imbalance, and read precision/recall trade-offs to judge what a model is actually good at catching.
+
+**[→ View Source](https://github.com/Liba4M/student-performance-predictor)**
+
 #### 🌍 [Global CO₂ Emissions Analysis](https://github.com/Liba4M/co2-emissions-visualisation)
 
 ![Python](https://img.shields.io/badge/Python-7a1e3d?style=flat-square&logo=python&logoColor=white)
